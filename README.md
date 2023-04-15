@@ -21,7 +21,7 @@
 <a href="https://github.com/"><img src="logo/github.svg" width="50" height="50"  alt="Github"/></a>
 <a href="https://www.about.gitlab.com/"><img src="logo/gitlab.svg" width="50" height="50"  alt="Gitlab"/></a>
 <a href="https://docker.com/"><img src="logo/dockercom.svg" width="50" height="50"  alt="Docker"/></a>
-<a href="https://./"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
+<a href="https://DevToolshere/"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
 <a href="https://sonatype.com/products/nexus-repository/"><img src="logo/nexusrepo_icon.svg" width="50" height="50"  alt="Nexus Sonatype"/></a>
 <a href="https://postman.com/"><img src="logo/postman-icon-svgrepo-com.svg" width="50" height="50"  alt="Postman"/></a>
 <a href="https://dbeaver.io.com/"><img src="logo/postgresql.svg" width="50" height="50"  alt="PostgreSQL"/></a>
