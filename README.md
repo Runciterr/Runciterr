@@ -53,18 +53,3 @@
 
 
 ## :scroll: Сертификаты
-#### Команды для локального запуска:
-```bash
-./gradlew clean taskWithTagVacancy -Dhost=localLaunch
-```
-
-#### Команды для удаленного запуска:
-```bash
-clean
-taskWithTagVacancy
--DremoteLink=${REMOTE_LINK}
--Dbrowser=${BROWSER}
--Dversion=${BROWSER_VERSION}
--Dresolution=${BROWSER_RESOLUTION}
--Dhost=remoteLaunch
-```
