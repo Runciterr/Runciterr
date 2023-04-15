@@ -8,7 +8,7 @@
 
 + [Мои контакты](#wave-Мои-контакты)
 + [Стек технологий](#computer-Стек-технологий)
-+ [Тестовые артефакты](#computer-Мои-тестовые-артефакты-на-текущем-проекте)
++ [Тестовые артефакты](#computer-Мои-тестовые-артефакты)
 + [Сертификаты](#desktop_computer-Сертификаты)
 
 
@@ -37,7 +37,7 @@
 <a href="https://trackstudio.ru/"><img src="logo/trackstudio_logo.svg" width="60" height="25"  alt="TrackStudio"/></a>
 </p>
 
-## :clipboard: Мои тестовые артефакты на текущем проекте: 
+## :clipboard: Мои тестовые артефакты: 
 + :white_check_mark: Баг-репорты
 + :white_check_mark: Тест-кейсы и чек-листы
 + :white_check_mark: Чек-листы
