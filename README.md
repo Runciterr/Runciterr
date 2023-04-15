@@ -1,4 +1,4 @@
-<h1 align="center">Welcome and hi, I'm Denis
+<h1 align="center">Hello and welcome, I'm Denis
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
