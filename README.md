@@ -1,9 +1,8 @@
-<h1 align="center">Hello and welcome, I'm Denis
+<h1 align="center">Привет и добро пожаловать! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+Меня зовут Денис. Начинающий инженер по обеспечению качества.
 
 
-
-# Денис Белоголовый
 
 <kbd>[![](images/Тайм-менеджмен.jpg)](https://msk.tele2.ru/about/career/vacancies)</kbd>
 
