@@ -38,8 +38,8 @@
 </p>
 
 ## :clipboard: Мои тестовые артефакты 
-+ :white_check_mark: [Баг-репорты]
-+ :white_check_mark: Тест-кейсы
++ :white_check_mark: [Баг-репорты](https://github.com/Runciterr/bug-reports)
++ :white_check_mark: [Тест-кейсы](https://github.com/Runciterr/test-cases)
 + :white_check_mark: [Чек-листы](https://github.com/Runciterr/check-lists)
 
 
@@ -53,3 +53,4 @@
 
 
 ## :scroll: Сертификаты
++ :diamond_shape_with_a_dot_inside: [Сертификаты](https://github.com/Runciterr/certificates)
