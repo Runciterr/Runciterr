@@ -1,4 +1,4 @@
-# Denis Belogoloviy portfolio
+# Денис Белоголовый
 
 <kbd>[![](images/Тайм-менеджмен.jpg)](https://msk.tele2.ru/about/career/vacancies)</kbd>
 
