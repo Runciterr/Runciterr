@@ -29,7 +29,7 @@
 ## :clipboard: Мои тестовые артефакты на текущем проекте: 
 + :white_check_mark: Баг-репорты
 + :white_check_mark: Тест-кейсы и чек-листы
-
++ :white_check_mark: Чек-листы
 
 
 
