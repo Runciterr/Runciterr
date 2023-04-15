@@ -1,4 +1,4 @@
-[![Header](https://github.com/Runciterr/Runciterr/blob/main/assets/github-header-image%20(3).png)]
+![Header](https://github.com/Runciterr/Runciterr/blob/main/assets/github-header-image%20(3).png)
 
 Меня зовут Денис. Начинающий инженер по обеспечению качества.
 
