@@ -11,6 +11,17 @@
 :doughnut: <a target="_blank" href="https://www.linkedin.com/in/denis-belogoloviy-01924b258/">LinkedIn</a>
 :fried_shrimp: <a target="_blank" href="https://www.linkedin.com/in/denis-belogoloviy-01924b258/">E-mail</a>
 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Адрес почты</title>
+ </head>
+ <body>
+  <p><a href="mailto:vlad@htmlbook.ru">Задавайте вопросы по электронной почте</a></p>
+ </body>
+</html>
+
 
 ## :computer: Стек технологий
 <p align="center">
