@@ -9,7 +9,7 @@
 
 :icecream: <a target="_blank" href="https://t.me/runciterr">telegram</a>
 :doughnut: <a target="_blank" href="https://www.linkedin.com/in/denis-belogoloviy-01924b258/">linkedIn</a>
-:fried_shrimp: <a target="_blank" href="https://www.nowhere.com/in/">e-mail: Dbelogoloviy@yandex.ru</a>
+:fried_shrimp: <a href="https://www.nowhere.com/in/">e-mail: Dbelogoloviy@yandex.ru</a>
 
 
 
