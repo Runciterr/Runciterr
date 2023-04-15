@@ -7,8 +7,9 @@
 + [Тестовые артефакты](#clipboard-Тестовые-артефакты)
 + [Сертификаты](#clipboard-Сертификаты)
 
-:icecream: <a target="_blank" href="https://t.me/runciterr">t.me/DenisBelogoloviy</a>
-:doughnut: <a target="_blank" href="https://www.linkedin.com/in/denis-belogoloviy-01924b258/">t.me/DenisBelogoloviy</a>
+:icecream: <a target="_blank" href="https://t.me/runciterr">telegram</a>
+:doughnut: <a target="_blank" href="https://www.linkedin.com/in/denis-belogoloviy-01924b258/">LinkedIn</a>
+:fried_shrimp: <a target="_blank" href="https://www.linkedin.com/in/denis-belogoloviy-01924b258/">E-mail</a>
 
 
 ## :computer: Стек технологий
