@@ -38,9 +38,9 @@
 </p>
 
 ## :clipboard: Мои тестовые артефакты 
-+ :white_check_mark: Баг-репорты
++ :white_check_mark: [Баг-репорты]
 + :white_check_mark: Тест-кейсы
-+ :white_check_mark: Чек-листы
++ :white_check_mark: [Чек-листы](https://github.com/Runciterr/check-lists)
 
 
 
