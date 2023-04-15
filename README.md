@@ -18,7 +18,7 @@
   <title>Адрес почты</title>
  </head>
  <body>
-  <p><a href="mailto:vlad@htmlbook.ru">Задавайте вопросы по электронной почте</a></p>
+  <p><a href="mailto:Dbelogoloviy@yandex.ru">Email</a></p>
  </body>
 </html>
 
