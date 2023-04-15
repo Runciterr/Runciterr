@@ -37,7 +37,7 @@
 <a href="https://trackstudio.ru/"><img src="logo/trackstudio_logo.svg" width="60" height="25"  alt="TrackStudio"/></a>
 </p>
 
-## :clipboard: Мои тестовые артефакты: 
+## :clipboard: Мои тестовые артефакты 
 + :white_check_mark: Баг-репорты
 + :white_check_mark: Тест-кейсы и чек-листы
 + :white_check_mark: Чек-листы
