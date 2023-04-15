@@ -12,7 +12,7 @@
 + [Сертификаты](#clipboard-Сертификаты)
 
 
-## :computer: Мои контакты:
+## :wave: Мои контакты:
 
 :icecream: <a target="_blank" href="https://t.me/runciterr">telegram</a>
 :doughnut: <a target="_blank" href="https://www.linkedin.com/in/denis-belogoloviy-01924b258/">linkedIn</a>
