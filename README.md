@@ -1,17 +1,22 @@
 ![Header](https://github.com/Runciterr/Runciterr/blob/main/assets/github-header-image%20(3).png)
 
-Меня зовут Денис Белоголовый. Начинающий инженер по обеспечению качества.
+Меня зовут Денис Белоголовый. Начинающий инженер по обеспечению качества. Здесь собрано моё портфолио на основе текущего проекта.
+
 
 
 ## Содержание:
+
++ [Контакты](#computer-Контакты)
 + [Стек технологий](#computer-Стек-технологий)
 + [Тестовые артефакты](#clipboard-Тестовые-артефакты)
 + [Сертификаты](#clipboard-Сертификаты)
 
+
+## :computer: Мои контакты:
+
 :icecream: <a target="_blank" href="https://t.me/runciterr">telegram</a>
 :doughnut: <a target="_blank" href="https://www.linkedin.com/in/denis-belogoloviy-01924b258/">linkedIn</a>
 :fried_shrimp: e-mail: Dbelogoloviy@yandex.ru </a>
-
 
 
 
