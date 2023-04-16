@@ -23,9 +23,11 @@
 
 ## :computer: Стек технологий
 <p align="center">
-<a href="https://https://linux.org/)/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
-<a href="https://https://testit.software/"><img src="logo/testIT.svg" width="50" height="50"  alt="testIT"/></a>
+<a href="https://linux.org/)/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
+<a href="https://putty.org/)/"><img src="logo/PuTTY_Icon.svg" width="50" height="50"  alt="PuTTY"/></a>
+<a href="https://testit.software/"><img src="logo/testIT.svg" width="50" height="50"  alt="testIT"/></a>
 <a href="https://github.com/"><img src="logo/github.svg" width="50" height="50"  alt="Github"/></a>
+<a href="https://notepad-plus-plus.org/"><img src="logo/Notepad++_Logo.svg" width="50" height="50"  alt="Notepad++"/></a>
 <a href="https://www.about.gitlab.com/"><img src="logo/gitlab.svg" width="50" height="50"  alt="Gitlab"/></a>
 <a href="https://docker.com/"><img src="logo/dockercom.svg" width="50" height="50"  alt="Docker"/></a>
 <a href="https://DevToolshere/"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
