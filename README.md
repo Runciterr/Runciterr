@@ -48,5 +48,5 @@
 
 :postbox: [Коллекция](https://github.com/Runciterr/Runciterr/tree/main/postman)
 
-## :scroll: Сертификаты о дополнительном образовании
+## :clipboard: Сертификаты о дополнительном образовании
 :diamond_shape_with_a_dot_inside: [Сертификаты](https://github.com/Runciterr/certificates)
