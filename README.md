@@ -23,8 +23,8 @@
 
 ## :computer: Стек технологий
 <p align="center">
-<a href="https://linux.org/)/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
-<a href="https://putty.org/)/"><img src="logo/PuTTY_Icon.svg" width="50" height="50"  alt="PuTTY"/></a>
+<a href="https://linux.org/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
+<a href="https://putty.org/"><img src="logo/PuTTY_Icon.svg" width="50" height="50"  alt="PuTTY"/></a>
 <a href="https://testit.software/"><img src="logo/testIT.svg" width="50" height="50"  alt="testIT"/></a>
 <a href="https://github.com/"><img src="logo/github.svg" width="50" height="50"  alt="Github"/></a>
 <a href="https://notepad-plus-plus.org/"><img src="logo/Notepad++_Logo.svg" width="50" height="50"  alt="Notepad++"/></a>
