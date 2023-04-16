@@ -9,6 +9,7 @@
 + [Мои контакты](#wave-Мои-контакты)
 + [Стек технологий](#computer-Стек-технологий)
 + [Мои тестовые артефакты](#clipboard-Мои-тестовые-артефакты)
++ [Пример коллекции в Postman](#clipboard-Пример-коллекции-в-Postman) 
 + [Сертификаты о дополнительном образовании](#scroll-Сертификаты-о-дополнительном-образовании)
 
 
@@ -44,7 +45,7 @@
 
 ## :clipboard: Пример коллекции в Postman 
 
-:postbox: [Коллекция](https://github.com/Runciterr/Runciterr/blob/main/postman/Petstore%20User.postman_collection.json)
+:postbox: [Коллекция](https://github.com/Runciterr/Runciterr/tree/main/postman)
 
 ## :scroll: Сертификаты о дополнительном образовании
 :diamond_shape_with_a_dot_inside: [Сертификаты](https://github.com/Runciterr/certificates)
