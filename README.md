@@ -44,7 +44,7 @@
 
 ## :clipboard: Пример коллекции в Postman 
 
-<img src="postman/postman.svg" width="50" height="50" [Коллекция](https://github.com/Runciterr/Runciterr/blob/main/postman/Petstore%20User.postman_collection.json)
+:postbox: [Коллекция](https://github.com/Runciterr/Runciterr/blob/main/postman/Petstore%20User.postman_collection.json)
 
 ## :scroll: Сертификаты о дополнительном образовании
 :diamond_shape_with_a_dot_inside: [Сертификаты](https://github.com/Runciterr/certificates)
