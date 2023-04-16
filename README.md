@@ -39,9 +39,9 @@
 </p>
 
 ## :clipboard: Мои тестовые артефакты 
-+ :white_check_mark: [Баг-репорты](https://github.com/Runciterr/bug-reports)
-+ :white_check_mark: [Тест-кейсы](https://github.com/Runciterr/test-cases)
-+ :white_check_mark: [Чек-листы](https://github.com/Runciterr/check-lists)
++ :white_check_mark: [Баг-репорты в TrackStudio](https://github.com/Runciterr/bug-reports)
++ :white_check_mark: [Тест-кейсы в testIT](https://github.com/Runciterr/test-cases)
++ :white_check_mark: [Чек-листы в testIT](https://github.com/Runciterr/check-lists)
 
 ## :clipboard: Пример коллекции в Postman 
 
