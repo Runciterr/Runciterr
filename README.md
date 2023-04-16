@@ -42,6 +42,9 @@
 + :white_check_mark: [Тест-кейсы](https://github.com/Runciterr/test-cases)
 + :white_check_mark: [Чек-листы](https://github.com/Runciterr/check-lists)
 
+## :clipboard: Пример коллекции в Postman 
+
+<img src="postman/postman.svg" width="50" height="50" [Коллекция](https://github.com/Runciterr/Runciterr/blob/main/postman/Petstore%20User.postman_collection.json)
 
 ## :scroll: Сертификаты о дополнительном образовании
 :diamond_shape_with_a_dot_inside: [Сертификаты](https://github.com/Runciterr/certificates)
