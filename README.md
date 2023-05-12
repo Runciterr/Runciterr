@@ -43,7 +43,6 @@
 ## :clipboard: Мои тестовые артефакты 
 + :white_check_mark: [Баг-репорты](https://github.com/Runciterr/bug-reports)
 + :white_check_mark: [Тест-кейсы](https://github.com/Runciterr/test-cases)
-+ :white_check_mark: [Запросы на изменение]
 + :white_check_mark: [Чек-листы](https://github.com/Runciterr/check-lists)
 + :white_check_mark: [Закрытые задачи](https://github.com/Runciterr/closedtasks)
 
