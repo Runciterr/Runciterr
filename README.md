@@ -30,7 +30,7 @@
 <a href="https://notepad-plus-plus.org/"><img src="logo/Notepad++_Logo.svg" width="50" height="50"  alt="Notepad++"/></a>
 <a href="https://www.about.gitlab.com/"><img src="logo/gitlab.svg" width="50" height="50"  alt="Gitlab"/></a>
 <a href="https://docker.com/"><img src="logo/dockercom.svg" width="50" height="50"  alt="Docker"/></a>
-<a href="https://https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
+<a href="https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
 <a href="https://sonatype.com/products/nexus-repository/"><img src="logo/nexusrepo_icon.svg" width="50" height="50"  alt="Nexus Sonatype"/></a>
 <a href="https://postman.com/"><img src="logo/postman-icon-svgrepo-com.svg" width="50" height="50"  alt="Postman"/></a>
 <a href="https://postgresql.org/"><img src="logo/postgresql.svg" width="50" height="50"  alt="PostgreSQL"/></a>
