@@ -41,7 +41,7 @@
 </p>
 
 ## :clipboard: Мои тестовые артефакты 
-# На текущем проекте мной было закрыто более 300 задач, из них более 100 найденные и заведенные ошибки
+### На текущем проекте мной было закрыто более 300 задач, из них более 100 найденные и заведенные ошибки
 + :white_check_mark: [Баг-репорты](https://github.com/Runciterr/bug-reports)
 + :white_check_mark: [Тест-кейсы](https://github.com/Runciterr/test-cases)
 + :white_check_mark: [Чек-листы](https://github.com/Runciterr/check-lists)
