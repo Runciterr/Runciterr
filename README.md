@@ -46,6 +46,7 @@
 + :white_check_mark: [Тест-кейсы](https://github.com/Runciterr/test-cases)
 + :white_check_mark: [Чек-листы](https://github.com/Runciterr/check-lists)
 + :white_check_mark: [Закрытые задачи](https://github.com/Runciterr/closedtasks)
++ Чек-лист мобильного тестирования
 
 ## :clipboard: Пример коллекции в Postman 
 
