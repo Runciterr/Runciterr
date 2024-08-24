@@ -67,7 +67,7 @@ tbd
 + :white_check_mark: [Тест-кейсы](https://github.com/Runciterr/test-cases)
 + :white_check_mark: [Чек-листы](https://github.com/Runciterr/check-lists)
 + :white_check_mark: [Закрытые задачи](https://github.com/Runciterr/closedtasks)
-+ :white_check_mark: [Чек-лист мобильного тестирования]
++ :white_check_mark: [Чек-лист мобильного тестирования] (https://github.com/Runciterr/mobile-testing-check-list)
 
 ## :clipboard: Пример коллекции в Postman 
 
