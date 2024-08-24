@@ -7,7 +7,7 @@
 ## Содержание:
 
 + [Мои контакты](#wave-Мои-контакты)
-+ [Стек технологий](#computer-Стек-технологий)
++ [Используемые инструменты и технологии](#computer-Стек-технологий)
 + [Мои тестовые артефакты](#clipboard-Мои-тестовые-артефакты)
 + [Пример коллекции в Postman](#clipboard-Пример-коллекции-в-Postman) 
 + [Сертификаты о дополнительном образовании](#clipboard-Сертификаты-о-дополнительном-образовании)
@@ -21,7 +21,7 @@
 
 
 
-## :computer: Стек технологий
+## :computer: Используемые инструменты и технологии
 <p align="center">
 <a href="https://linux.org/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
 <a href="https://putty.org/"><img src="logo/PuTTY_Icon.svg" width="50" height="50"  alt="PuTTY"/></a>
