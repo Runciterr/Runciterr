@@ -22,6 +22,7 @@
 
 
 ## :computer: Используемые инструменты и технологии
+Mobile device management проект
 <p align="center">
 <a href="https://linux.org/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
 <a href="https://putty.org/"><img src="logo/PuTTY_Icon.svg" width="50" height="50"  alt="PuTTY"/></a>
@@ -37,7 +38,6 @@
 <a href="https://dbeaver.io/"><img src="logo/DBeaver_logo.svg" width="50" height="50"  alt="DBeaver"/></a>
 <a href="https://www.jenkins.io/"><img src="logo/jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
 <a href="https://www.atlassian.com/software/jira"><img src="logo/jira.svg" width="50" height="50"  alt="Jira"/></a>
-<a href="https://trackstudio.ru/"><img src="logo/trackstudio_logo.svg" width="60" height="25"  alt="TrackStudio"/></a>
 </p>
 
 ## :clipboard: Над какими проектах работал
