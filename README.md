@@ -41,6 +41,7 @@ Mobile device management проект
 </p>
 ПАО Сбербанк
 tbd
+
 Газпром Медиа Холдинг
 tbd
 
