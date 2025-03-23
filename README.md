@@ -9,7 +9,6 @@
 + [Используемые инструменты и технологии](#computer-Используемые-инструменты-и-технологии)
 + [Над какими проектах работал](#clipboard-Над-какими-проектах-работал)
 + [Мои тестовые артефакты](#clipboard-Мои-тестовые-артефакты)
-+ [Пример коллекции в Postman](#clipboard-Пример-коллекции-в-Postman) 
 + [Сертификаты о дополнительном образовании](#clipboard-Сертификаты-о-дополнительном-образовании)
 
 
@@ -63,9 +62,6 @@ tbd
 ## :clipboard: Мои тестовые артефакты 
 + :white_check_mark: [Чек-лист мобильного тестирования](https://github.com/Runciterr/mobile-testing-check-list)
 
-## :clipboard: Пример коллекции в Postman 
-
-:postbox: [Коллекция](https://github.com/Runciterr/Runciterr/tree/main/postman)
 
 ## :clipboard: Сертификаты о дополнительном образовании
 :diamond_shape_with_a_dot_inside: [Сертификаты](https://github.com/Runciterr/certificates)
