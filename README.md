@@ -3,7 +3,6 @@
 #### Меня зовут Денис Белоголовый. QA инженер в Газпром Медиа Холдинге. Здесь собрано моё портфолио на основе текущих и прошлых проектов, а также домашние задания по автоматизации тестирования на Java.
 
 
-
 ## Содержание:
 
 + [Мои контакты](#wave-Мои-контакты)
@@ -59,14 +58,9 @@ tbd
 
 Газпром Медиа Холдинг 
 
-Проекты: Сервис по созданию коротких видео из потока; Движок для создания мультимедиа сайтов; Бэкенд онлайн кинотеатра Premier.
+Проекты: Сервис по созданию коротких видео из потока; Движок для создания мультимедиа сайтов; Бэкенд онлайн кинотеатра Premier; Сайт с вакансиями холдинга.
 
 ## :clipboard: Мои тестовые артефакты 
-
-+ :white_check_mark: [Баг-репорты](https://github.com/Runciterr/bug-reports)
-+ :white_check_mark: [Тест-кейсы](https://github.com/Runciterr/test-cases)
-+ :white_check_mark: [Чек-листы](https://github.com/Runciterr/check-lists)
-+ :white_check_mark: [Закрытые задачи](https://github.com/Runciterr/closedtasks)
 + :white_check_mark: [Чек-лист мобильного тестирования](https://github.com/Runciterr/mobile-testing-check-list)
 
 ## :clipboard: Пример коллекции в Postman 
