@@ -34,7 +34,9 @@
 <a href="https://postman.com/"><img src="logo/postman-icon-svgrepo-com.svg" width="50" height="50"  alt="Postman"/></a>
 <a href="https://www.about.gitlab.com/"><img src="logo/gitlab.svg" width="50" height="50"  alt="Gitlab"/></a>
 <a href="https://www.charlesproxy.com/"><img src="logo/charlesproxyicon.svg" width="50" height="50" alt="Charles"/></a>
-<a href="https://qameta.io//"><img src="logo/testops_testops.svg" width="50" height="50" alt="TestOps"/></a>
+<a href="https://qameta.io/"><img src="logo/testops_testops.svg" width="50" height="50" alt="TestOps"/></a>
+<a href="https://argo-cd.readthedocs.io/en/stable/"><img src="logo/Argo-CD.svg" width="50" height="50" alt="ArgoCD"/></a>
+
 
 </p>
 
