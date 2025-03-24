@@ -36,7 +36,7 @@
 <a href="https://www.charlesproxy.com/"><img src="logo/charlesproxyicon.svg" width="50" height="50" alt="Charles"/></a>
 <a href="https://qameta.io/"><img src="logo/testops_testops.svg" width="50" height="50" alt="TestOps"/></a>
 <a href="https://argo-cd.readthedocs.io/en/stable/"><img src="logo/Argo-CD.svg" width="50" height="50" alt="ArgoCD"/></a>
-
+<a href="https://grafana.com/"><img src="logo/grafana-icon.svg" width="50" height="50"  alt="Grafana"/></a>
 
 </p>
 
