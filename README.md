@@ -57,6 +57,7 @@
 <a href="https://www.elastic.co/kibana"><img src="logo/elastic-kibana.svg" width="50" height="50"  alt="Kibana"/></a>
 <a href="https://grafana.com/"><img src="logo/grafana-icon.svg" width="50" height="50"  alt="Grafana"/></a>
 <a href="https://www.java.com"><img src="logo/java.svg" width="50" height="50"  alt="Java"/></a>
+<a href="https://bitbucket.org"><img src="logo/bitbucket.svg" width="50" height="50"  alt="Bitbucket"/></a>
 
 
 
