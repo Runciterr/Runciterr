@@ -25,6 +25,7 @@
 Газпром Медиа Холдинг
 
 <p>
+  
 <a href="https://linux.org/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
 <a href="https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
 <a href="https://dbeaver.io/"><img src="logo/DBeaver_logo.svg" width="50" height="50"  alt="DBeaver"/></a>
@@ -32,6 +33,7 @@
 <a href="https://postman.com/"><img src="logo/postman-icon-svgrepo-com.svg" width="50" height="50"  alt="Postman"/></a>
 <a href="https://www.about.gitlab.com/"><img src="logo/gitlab.svg" width="50" height="50"  alt="Gitlab"/></a>
 <a href="https://www.charlesproxy.com/"><img src="logo/charlesproxyicon.svg" width="50" height="50" alt="Charles"/></a>
+<a href="https://qameta.io//"><img src="logo/testops_testops.svg" width="50" height="50" alt="TestOps"/></a>
 
 </p>
 
