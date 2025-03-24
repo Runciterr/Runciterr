@@ -39,7 +39,7 @@ Mobile device management проект
 </p>
 ПАО Сбербанк
 
-<p align="center">
+<p>
 <a href="https://linux.org/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
 <a href="https://putty.org/"><img src="logo/PuTTY_Icon.svg" width="50" height="50"  alt="PuTTY"/></a>
 <a href="https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
@@ -50,7 +50,7 @@ Mobile device management проект
 
 Газпром Медиа Холдинг
 
-<p align="center">
+<p>
 <a href="https://linux.org/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
 <a href="https://putty.org/"><img src="logo/PuTTY_Icon.svg" width="50" height="50"  alt="PuTTY"/></a>
 <a href="https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
