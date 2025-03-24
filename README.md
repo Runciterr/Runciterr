@@ -66,7 +66,6 @@
 <a href="https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
 <a href="https://sonatype.com/products/nexus-repository/"><img src="logo/nexusrepo_icon.svg" width="50" height="50"  alt="Nexus Sonatype"/></a>
 <a href="https://postman.com/"><img src="logo/postman-icon-svgrepo-com.svg" width="50" height="50"  alt="Postman"/></a>
-<a href="https://postgresql.org/"><img src="logo/postgresql.svg" width="50" height="50"  alt="PostgreSQL"/></a>
 <a href="https://dbeaver.io/"><img src="logo/DBeaver_logo.svg" width="50" height="50"  alt="DBeaver"/></a>
 <a href="https://www.jenkins.io/"><img src="logo/jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
 <a href="https://www.atlassian.com/software/jira"><img src="logo/jira.svg" width="50" height="50"  alt="Jira"/></a>
