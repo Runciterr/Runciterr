@@ -27,7 +27,7 @@
 <p>
   
 <a href="https://linux.org/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
-<a href="https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
+<a href="https://developer.chrome.com/docs/devtools//"><img src="logo/chrome-devtools.svg" width="50" height="50"  alt="DevTools"/></a>
 <a href="https://dbeaver.io/"><img src="logo/DBeaver_logo.svg" width="50" height="50"  alt="DBeaver"/></a>
 <a href="https://www.atlassian.com/software/jira"><img src="logo/jira.svg" width="50" height="50"  alt="Jira"/></a>
 <a href="https://www.atlassian.com/software/confluence"><img src="logo/confluence.svg" width="50" height="50"  alt="Conluence"/></a>
@@ -46,7 +46,7 @@
 <p>
 <a href="https://linux.org/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
 <a href="https://putty.org/"><img src="logo/PuTTY_Icon.svg" width="50" height="50"  alt="PuTTY"/></a>
-<a href="https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
+<a href="https://developer.chrome.com/docs/devtools//"><img src="logo/chrome-devtools.svg" width="50" height="50"  alt="DevTools"/></a>
 <a href="https://dbeaver.io/"><img src="logo/DBeaver_logo.svg" width="50" height="50"  alt="DBeaver"/></a>
 <a href="https://www.jenkins.io/"><img src="logo/jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
 <a href="https://www.atlassian.com/software/jira"><img src="logo/jira.svg" width="50" height="50"  alt="Jira"/></a>
@@ -71,7 +71,7 @@
 <a href="https://github.com/"><img src="logo/github.svg" width="50" height="50"  alt="Github"/></a>
 <a href="https://www.about.gitlab.com/"><img src="logo/gitlab.svg" width="50" height="50"  alt="Gitlab"/></a>
 <a href="https://docker.com/"><img src="logo/dockercom.svg" width="50" height="50"  alt="Docker"/></a>
-<a href="https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
+<a href="https://developer.chrome.com/docs/devtools//"><img src="logo/chrome-devtools.svg" width="50" height="50"  alt="DevTools"/></a>
 <a href="https://sonatype.com/products/nexus-repository/"><img src="logo/nexusrepo_icon.svg" width="50" height="50"  alt="Nexus Sonatype"/></a>
 <a href="https://postman.com/"><img src="logo/postman-icon-svgrepo-com.svg" width="50" height="50"  alt="Postman"/></a>
 <a href="https://dbeaver.io/"><img src="logo/DBeaver_logo.svg" width="50" height="50"  alt="DBeaver"/></a>
