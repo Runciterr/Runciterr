@@ -30,6 +30,7 @@
 <a href="https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
 <a href="https://dbeaver.io/"><img src="logo/DBeaver_logo.svg" width="50" height="50"  alt="DBeaver"/></a>
 <a href="https://www.atlassian.com/software/jira"><img src="logo/jira.svg" width="50" height="50"  alt="Jira"/></a>
+<a href="https://www.atlassian.com/software/confluence"><img src="logo/confluence.svg" width="50" height="50"  alt="Conluence"/></a>
 <a href="https://postman.com/"><img src="logo/postman-icon-svgrepo-com.svg" width="50" height="50"  alt="Postman"/></a>
 <a href="https://www.about.gitlab.com/"><img src="logo/gitlab.svg" width="50" height="50"  alt="Gitlab"/></a>
 <a href="https://www.charlesproxy.com/"><img src="logo/charlesproxyicon.svg" width="50" height="50" alt="Charles"/></a>
@@ -47,6 +48,7 @@
 <a href="https://dbeaver.io/"><img src="logo/DBeaver_logo.svg" width="50" height="50"  alt="DBeaver"/></a>
 <a href="https://www.jenkins.io/"><img src="logo/jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
 <a href="https://www.atlassian.com/software/jira"><img src="logo/jira.svg" width="50" height="50"  alt="Jira"/></a>
+<a href="https://www.atlassian.com/software/confluence"><img src="logo/confluence.svg" width="50" height="50"  alt="Conluence"/></a>
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"><img src="logo/OpenShift-LogoType.svg" width="50" height="50"  alt="OpenShift"/></a>
 <a href="https://insomnia.rest/"><img src="logo/apps-insomnia.svg" width="50" height="50"  alt="Insomnia"/></a>
 <a href="https://www.elastic.co/kibana"><img src="logo/elastic-kibana.svg" width="50" height="50"  alt="Kibana"/></a>
@@ -72,7 +74,6 @@
 <a href="https://postman.com/"><img src="logo/postman-icon-svgrepo-com.svg" width="50" height="50"  alt="Postman"/></a>
 <a href="https://dbeaver.io/"><img src="logo/DBeaver_logo.svg" width="50" height="50"  alt="DBeaver"/></a>
 <a href="https://www.jenkins.io/"><img src="logo/jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
-<a href="https://www.atlassian.com/software/jira"><img src="logo/jira.svg" width="50" height="50"  alt="Jira"/></a>
 </p>
 
 
