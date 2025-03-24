@@ -49,6 +49,10 @@
 <a href="https://www.atlassian.com/software/jira"><img src="logo/jira.svg" width="50" height="50"  alt="Jira"/></a>
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"><img src="logo/OpenShift-LogoType.svg" width="50" height="50"  alt="OpenShift"/></a>
 <a href="https://insomnia.rest/"><img src="logo/apps-insomnia.svg" width="50" height="50"  alt="Insomnia"/></a>
+<a href="https://www.elastic.co/kibana"><img src="logo/elastic-kibana.svg" width="50" height="50"  alt="Kibana"/></a>
+<a href="https://grafana.com/"><img src="logo/Grafana_logo.svg" width="50" height="50"  alt="Grafana"/></a>
+
+
 
 
 </p>
