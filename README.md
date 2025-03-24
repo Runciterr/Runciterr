@@ -27,7 +27,6 @@ Mobile device management проект
 <a href="https://putty.org/"><img src="logo/PuTTY_Icon.svg" width="50" height="50"  alt="PuTTY"/></a>
 <a href="https://testit.software/"><img src="logo/testIT.svg" width="50" height="50"  alt="testIT"/></a>
 <a href="https://github.com/"><img src="logo/github.svg" width="50" height="50"  alt="Github"/></a>
-<a href="https://notepad-plus-plus.org/"><img src="logo/Notepad++_Logo.svg" width="50" height="50"  alt="Notepad++"/></a>
 <a href="https://www.about.gitlab.com/"><img src="logo/gitlab.svg" width="50" height="50"  alt="Gitlab"/></a>
 <a href="https://docker.com/"><img src="logo/dockercom.svg" width="50" height="50"  alt="Docker"/></a>
 <a href="https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
@@ -40,11 +39,26 @@ Mobile device management проект
 </p>
 ПАО Сбербанк
 
-tbd
+<p align="center">
+<a href="https://linux.org/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
+<a href="https://putty.org/"><img src="logo/PuTTY_Icon.svg" width="50" height="50"  alt="PuTTY"/></a>
+<a href="https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
+<a href="https://dbeaver.io/"><img src="logo/DBeaver_logo.svg" width="50" height="50"  alt="DBeaver"/></a>
+<a href="https://www.jenkins.io/"><img src="logo/jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="logo/jira.svg" width="50" height="50"  alt="Jira"/></a>
+</p>
 
 Газпром Медиа Холдинг
 
-tbd
+<p align="center">
+<a href="https://linux.org/"><img src="logo/linux.svg" width="50" height="50"  alt="Linux"/></a>
+<a href="https://putty.org/"><img src="logo/PuTTY_Icon.svg" width="50" height="50"  alt="PuTTY"/></a>
+<a href="https://developer.chrome.com/docs/devtools//"><img src="logo/devtools-logo.svg" width="50" height="50"  alt="DevTools"/></a>
+<a href="https://dbeaver.io/"><img src="logo/DBeaver_logo.svg" width="50" height="50"  alt="DBeaver"/></a>
+<a href="https://www.jenkins.io/"><img src="logo/jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="logo/jira.svg" width="50" height="50"  alt="Jira"/></a>
+<a href="https://postman.com/"><img src="logo/postman-icon-svgrepo-com.svg" width="50" height="50"  alt="Postman"/></a>
+</p>
 
 ## :clipboard: Над какими проектах работал
 НИИ СОКБ
