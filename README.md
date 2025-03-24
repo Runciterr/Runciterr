@@ -32,7 +32,7 @@
 <a href="https://www.atlassian.com/software/jira"><img src="logo/jira.svg" width="50" height="50"  alt="Jira"/></a>
 <a href="https://postman.com/"><img src="logo/postman-icon-svgrepo-com.svg" width="50" height="50"  alt="Postman"/></a>
 <a href="https://www.about.gitlab.com/"><img src="logo/gitlab.svg" width="50" height="50"  alt="Gitlab"/></a>
-<a href="https://www.charlesproxy.com/"><img src=logo/charlesproxyicon.svg" width="50" height="50" alt="Charles"/></a>
+<a href="https://www.charlesproxy.com/"><img src="logo/charlesproxyicon.svg" width="50" height="50" alt="Charles"/></a>
 
 </p>
 
