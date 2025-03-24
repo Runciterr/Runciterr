@@ -36,6 +36,8 @@
 <a href="https://qameta.io/"><img src="logo/testops_testops.svg" width="50" height="50" alt="TestOps"/></a>
 <a href="https://argo-cd.readthedocs.io/en/stable/"><img src="logo/Argo-CD.svg" width="50" height="50" alt="ArgoCD"/></a>
 <a href="https://grafana.com/"><img src="logo/grafana-icon.svg" width="50" height="50"  alt="Grafana"/></a>
+<a href="https://www.javascript.com/"><img src="logo/JavaScript.svg" width="50" height="50"  alt="JavaScript"/></a>
+
 
 </p>
 
